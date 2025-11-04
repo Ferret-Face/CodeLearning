@@ -1,0 +1,36 @@
+.Lorem {
+    background-color:#98ecff;
+    font: Times;
+    text-align: center;
+    padding: 15px 20px;
+    border: 10px solid #fff;
+    border-radius: 15px;
+}
+
+h2 {
+    font-size: 2rem;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #FA9970;
+    padding: 20px 30px;
+    background-color: #e1e6e2;
+    border: 5px solid white;
+    border-radius: 13px;
+}
+
+p {
+    padding: 7px 10px;
+}
+
+li {
+    padding: 5px 5px 5px 15px;
+}
+
+ul {
+    border: 5px solid #fff;
+    border-radius: 8px;
+    background-color: #70FAB7;
+}

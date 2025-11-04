@@ -1,0 +1,70 @@
+<html>
+
+
+    <head><title>Lists and the Like</title> <!--A lot more tame than the others-->
+    <link href="../resources/css/reset.css" rel="stylesheet" type="text/css"/>
+    <link href="../resources/css/style.css" rel="stylesheet" type="text/css"/></head> <!--Blue! :D-->
+
+    <body>
+
+        <header><h1>Lists and the Like</h1></header>
+
+        <nav>
+        <h2>Nav Menu</h2>
+        <p><a href="#places">Places</a></p>
+        <p><a href="#gallery">Gallery</a></p><br>
+        </nav>
+
+        <div id="places">
+        <ul>
+
+        <li>Portland</li>
+        <li>Russia</li>
+        <li>New York</li>
+        <li>California</li>
+        <li>Missipi</li> <!--Yes, I am aware! This looks more like a word than the properly spelled way though-->
+        <li>New Mexico</li> <!--I just named whatever came to mind shut up-->
+
+        </ul>
+        </div><br>
+
+        <p>All</p>
+        <p>of</p>
+        <p>this</p>
+        <p>stuff</p>
+        <p>in</p>
+        <p>be</p>
+        <p>tween</p>
+        <p>to</p>
+        <p>hope</p>
+        <p>full</p>
+        <p>y</p>
+        <p>show</p>
+        <p>that</p>
+        <p>this</p>
+        <p>works</p>
+
+        <p class="Lorem">Lorem ipsum dolor sit amet, et malis facilis platonem sed, ne augue scripta luptatum ius. Affert sadipscing adversarium est ne. Ex viris labore intellegam ius, et quo liber intellegam persequeris, per singulis adolescens cu. Qui ut semper admodum lucilius, eam ponderum consetetur consectetuer ut. Cum euismod intellegat cu, id vis ludus electram.<br>At sed amet esse graeci. Eam impedit gloriatur ne. Mei aliquando omittantur ea, elit audire iuvaret sit ut. Fierent persecuti ne mel. Feugait ponderum et duo, vero repudiare reprimique his id.<br>His cibo interpretaris ei. Pri ut malis reprimique intellegebat, eos an iracundia gubergren cotidieque. Ipsum accumsan pertinax ea eum, eleifend molestiae mea et. Eu altera quaestio sea. Ea mutat consequat per, sit ea accusata tincidunt suscipiantur.</p>
+
+        <div id="gallery">
+        <ul>
+
+        <li>Photo</li>
+        <li>Photo</li>
+        <li>Photo</li>
+        <li>Photo</li>
+        <li>Photo</li>
+        <li>Photo</li>
+        <li>Photo</li>
+        <li>Photo</li> <!--Use your imagination, I know you have one considering all the ridiculous insults you're coming up with right now-->
+
+        </ul>
+        </div>
+
+        <br><p><a href="../index.html">Back to Homepage</a></p><br> <!--Return and gaze upon the final of the linked works!!-->
+
+    </body>
+
+</style>
+
+</html>
